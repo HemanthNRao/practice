@@ -1,6 +1,6 @@
 a=int(input("enter the first number"));
-b=int(input("enter the second number"))
-print("addtion is:",a+b)
+b=int(input("enter the second number"));
+print("addtion is:",a+b);
 print("subtraction is:",a-b);
 print("multiplication is:",a*b);
 print("devision is:",a/b);
