@@ -4,4 +4,6 @@ print("addtion is:",a+b)
 print("subtraction is:",a-b);
 print("multiplication is:",a*b);
 print("devision is:",a/b);
+print("modualo is:",a%b);
+
 
