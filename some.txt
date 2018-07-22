@@ -1,9 +1,7 @@
-B
-B
 hi 
 hello
 hey
 bow bow
 click click
 kuie kuie
-
+key key
